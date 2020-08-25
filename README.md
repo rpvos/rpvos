@@ -3,7 +3,7 @@
 
 ## I'm a student in technical informatics!
 
-- 🔭 I’m currently working on a [Tetris game][TetrisGame]!
+- 🔭 I’m currently working on a [tetris game][TetrisGame]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Publish the tetris game
 - ⚡ Fun fact: I love to play chess
@@ -51,7 +51,7 @@
 </details><br/>
 
 [website]: https://google.com
-[tetris game]: https://github.com/rpvos/Tetris
+[TetrisGame]: https://github.com/rpvos/Tetris
 [youtube]: https://www.youtube.com/channel/UCq7cjoDwb2E2g2kvQ5EOIvg
 [instagram]: https://www.instagram.com/rik_vos_
 [linkedin]: https://www.linkedin.com/in/rik-vos-8bb1201a2/
