@@ -31,6 +31,14 @@
 ---
 
 <details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.rpvos.vercel.app/api?username=rpvos&show_icons=true&hide_border=true" />
