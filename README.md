@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 
 <br />
 <br />
@@ -42,3 +42,5 @@
 [youtube]: https://www.youtube.com/channel/UCq7cjoDwb2E2g2kvQ5EOIvg
 [instagram]: https://www.instagram.com/rik_vos_
 [linkedin]: https://www.linkedin.com/in/rik-vos-8bb1201a2/
+
+[java]: https://en.wikipedia.org/wiki/Java_(programming_language)
