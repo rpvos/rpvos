@@ -33,14 +33,14 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+</details><br/>
 
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.rpvos.vercel.app/api?username=rpvos&show_icons=true&hide_border=true" />
 
-</details>
+</details><br/>
 
 <details>
     <summary>:zap: Github Development Stats</summary>
@@ -48,7 +48,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->  
 
-</details>
+</details><br/>
 
 [website]: https://google.com
 [tetris game]: https://github.com/rpvos/Tetris
