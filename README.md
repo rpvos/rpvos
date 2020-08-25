@@ -43,7 +43,7 @@
 </details>
 
 <details>
-    <summary>:zap: Github Stats</summary>
+    <summary>:zap: Github Development Stats</summary>
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->  
