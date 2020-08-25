@@ -42,6 +42,14 @@
 
 </details>
 
+<details>
+    <summary>:zap: Github Stats</summary>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->  
+
+</details>
+
 [website]: https://google.com
 [tetris game]: https://github.com/rpvos/Tetris
 [youtube]: https://www.youtube.com/channel/UCq7cjoDwb2E2g2kvQ5EOIvg
