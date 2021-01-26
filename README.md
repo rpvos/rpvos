@@ -4,8 +4,8 @@
 ## I'm a student in technical informatics!
 
 - 🔭 I’m currently working on a [tetris game][TetrisGame]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Publish the tetris game
+- 🌱 I’m currently learning the Russian alfabet
+- 🥅 2021 Goals: Speak Russian
 - ⚡ Fun fact: I love to play chess
 
 
