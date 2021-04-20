@@ -36,7 +36,7 @@
   <img align="left" alt="Github Stats" src="https://github-readme-stats-git-master.rpvos.vercel.app/api?username=rpvos&show_icons=true&hide_border=true" />
 
 
-[website]: https://rpvos.nl
+[website]: http://rpvos.nl
 [mail]: rik.vos01@gmail.com
 [TetrisGame]: https://github.com/rpvos/Tetris
 [youtube]: https://www.youtube.com/channel/UCq7cjoDwb2E2g2kvQ5EOIvg
