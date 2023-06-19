@@ -4,8 +4,8 @@
 ## I'm a student in technical informatics!
 
 -  I’m currently working on a [my own website][website]!
--  I’m currently learning the Russian alfabet
--  2021 Goals: Speak Russian
+-  I’m currently working on Leetcode problems
+-  2023 Goals: Graduate
 -  Fun fact: I love to play chess
 
 
