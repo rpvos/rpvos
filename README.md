@@ -28,6 +28,8 @@
 <br />
 <br />
 
+### Current stats
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rpvos)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
