@@ -24,10 +24,11 @@
 [<img align="left" alt="Java" width="26px" src="source/JavaLogo.png" />][java]
 [<img align="left" alt="C#" width="26px" src="source/CSharpLogo.png" />][c#]
 [<img align="left" alt="C" width="26px" src="source/CLogo.png" />][c]
-[<img align="left" alt="ESP-IDF" width="26px" src="source/EspressifLogo.png" />][espressive]
 
 <br />
 <br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rpvos)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -46,4 +47,3 @@
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [c#]: https://en.wikipedia.org/wiki/C#_(programming_language)
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
-[espressive]: https://www.espressif.com/
